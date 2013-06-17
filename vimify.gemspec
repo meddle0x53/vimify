@@ -16,5 +16,5 @@ Gem::Specification.new do |spec|
   spec.files         = `git ls-files`.split($/)
 
   spec.require_paths = ["lib"]
-  spec.executables   = %w(vimify)
+  spec.executables   = %w(vimify v)
 end
